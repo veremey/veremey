@@ -5,7 +5,7 @@ I am an experienced frontend developer working predominantly in React.js, Redux.
 I am always looking to improve and develop, and I realize there is always something new to learn, no matter how much experience you have.
 Core technology skills include React.js, Redux.js, JavaScript, Vue.js, TypeScript, CSS modules, Rest API, animation libraries, and act. to create reusable code modules to build web applications with responsive design.
 
-<img src="https://github-readme-stats.vercel.app/api?username=veremey&&show_icons=true&title_color=ffffff&icon_color=F7A900&text_color=F2CA00&bg_color=0056B1" />
+<img src="https://github-readme-stats.vercel.app/api?username=veremey&&show_icons=true&title_color=ffffff&icon_color=F7A900&bg_color=80,0056B1,F2CA00&text_color=F2CA00&hide_border=true" />
 
 
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://vshymanskyy.github.io/StandWithUkraine)
