@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋. 
+## Welcome on Sergey's github page
+
+I am an experienced frontend developer working predominantly in React.js, Redux.js and involved in web development since 2013.  
+I am always looking to improve and develop, and I realize there is always something new to learn, no matter how much experience you have.
+Core technology skills include React.js, Redux.js, JavaScript, Vue.js, TypeScript, CSS modules, Rest API, animation libraries, and act. to create reusable code modules to build web applications with responsive design.
+
+<img src="https://github-readme-stats.vercel.app/api?username=veremey&&show_icons=true&title_color=ffffff&icon_color=F7A900&text_color=F2CA00&bg_color=0056B1" />
+
+
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
 <!--
 **veremey/veremey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
