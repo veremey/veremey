@@ -1,5 +1,5 @@
 ### Hi there 👋. 
-## Welcome on Sergey's github page
+## Welcome on Serhii's github page
 
 I am an experienced frontend developer working predominantly in React.js, Redux.js and involved in web development since 2013.  
 I am always looking to improve and develop, and I realize there is always something new to learn, no matter how much experience you have.
